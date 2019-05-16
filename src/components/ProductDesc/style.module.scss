@@ -1,0 +1,96 @@
+.container{
+  background-color: rgba(20, 71, 255, 0.87);
+  color: white;
+  width: 100%;
+  height: auto;
+  box-shadow: 0 4px 3px 0 rgba(0, 0, 0, 0.05), 0 6px 6px 0 rgba(0, 0, 0, 0.05) !important;
+  margin: 0 auto !important;
+}
+
+.product{
+  padding-top: 50px;
+  width: 95%;
+  margin: 0 auto 30px;
+}
+
+.image{
+  width: 100%;
+  background-size:cover
+}
+
+.row{
+  max-width: 100%;
+}
+
+.buttonWrapper {
+  margin-bottom: 20px;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+.product p{
+  text-align: left !important;
+  font-weight: lighter;
+  margin-bottom: 30px;
+  font-size: small;
+}
+
+.product h5{
+  text-align: center !important;
+  margin-bottom: 35px;
+}
+
+.addButton{
+   background: #29c864;
+   width: 50%;
+   font-weight: bold;
+   vertical-align: middle;
+   display: block;
+  font-size: smaller;
+  margin: 30px auto 20px;
+ }
+
+.addButton:hover{
+  background: #25a854;
+  border: 1px solid #25a854;
+  width: 50%;
+  font-size: smaller;
+  font-weight: bold;
+  vertical-align: middle;
+  display: block;
+  margin: 30px auto 20px;
+}
+
+.addedButton{
+  background: #123abc;
+  width: 50%;
+  font-size: smaller;
+  font-weight: bold;
+  vertical-align: middle;
+  display: block;
+  margin: 30px auto 20px;
+}
+
+.fluidImg{
+    padding: 0 0 0 0 !important;
+}
+
+.fluidCol{
+  margin: 0 auto;
+}
+
+.container span{
+  margin-top: 10px;
+  font-size: inherit !important;
+  text-shadow: 0 0 0 !important;
+}
+
+.container button{
+  box-shadow: none !important;
+  outline: none
+}
+
+.sizeSelect{
+  margin: 50px 0 30px 0;
+  font-size: medium;
+}

@@ -1,0 +1,109 @@
+@font-face {
+  font-family: Oswald;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: 700;
+  src: url("../../assets/fonts/Roboto/Roboto-Medium.ttf");
+}
+
+.topnav {
+  overflow: hidden;
+  height: 65px;
+  padding-right: 8%;
+}
+
+
+.topnav a {
+  float: right;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 30px 30px;
+  text-decoration: none;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+
+.topnav h5 a{
+  float: left;
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 25px 0 0 10%;
+  text-decoration: none;
+  font-size: 25px;
+  font-weight: 200;
+}
+
+.topnav a:hover {
+  color: rgba(0, 0, 0, 0.71);
+}
+
+
+
+.topnav .icon {
+  display: none;
+}
+
+@media screen and (max-width: 600px) {
+  .topnav a {
+    float: right;
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 30px 10px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+  }
+}
+
+
+@media screen and (max-width: 300px) {
+  .topnav a {
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 30px 5px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+  }
+}
+
+@media screen and (max-width: 200px) {
+  .topnav a {
+    float: right;
+    display: block;
+    text-align: center;
+    padding: 30px 2px;
+    text-decoration: none;
+    font-size: 14px;
+    font-weight: bold;
+  }
+}
+
+//
+//.outer{
+//  height: 5em;
+//  position: relative
+//}
+//
+//.nav{
+//  color: black !important;
+//  position: absolute;
+//  top: 50%;
+//  left: 10%;
+//  width: 100%;
+//  border-bottom: 20px black !important;
+//  margin: 0 auto;
+//}
+//
+//
+//
+//a {
+//  color: black;
+//  padding-right: .5rem !important;
+//  padding-left: .5rem !important;
+//}

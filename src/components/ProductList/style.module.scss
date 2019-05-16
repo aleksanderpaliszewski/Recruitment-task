@@ -1,0 +1,15 @@
+.grid{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: #2196F3;
+  padding: 10px;
+}
+
+.loading{
+  margin-top: 25%;
+  margin-right: 10%;
+}
+
+.productCol{
+  margin: 0 auto !important;
+}

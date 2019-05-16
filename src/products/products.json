@@ -1,0 +1,99 @@
+[ {
+  "category" : "accessories",
+  "name" : "Supreme®/Nike® Vapor Jet 4.0 Football Gloves",
+  "nameRegex" : ".*S.*u.*p.*r.*e.*m.*e.*N.*i.*k.*e.*V.*a.*p.*o.*r.*J.*e.*t.*4.*0.*F.*o.*o.*t.*b.*a.*l.*l.*G.*l.*o.*v.*e.*s.*",
+  "price" : "\n                                                                                            $60/£54\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "https://www.supremecommunity.com/u/season/add/20181227d6f01c72fac743968147c85ab87c61e7_sqr.jpg"
+}, {
+  "category" : "hats",
+  "name" : "Polartec® Headband",
+  "nameRegex" : ".*P.*o.*l.*a.*r.*t.*e.*c.*H.*e.*a.*d.*b.*a.*n.*d.*",
+  "price" : "\n                                                                                            $32/£28\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "7 1/8", "7 1/4", "7 3/8", "7 1/2", "7 5/8", "7 3/4" ],
+  "url" : "https://www.supremecommunity.com/u/season/fall-winter2018/hats/739ed67a0ee241c3a4f38c6f44f2a01f_sqr.jpg"
+}, {
+  "category" : "sweatshirts",
+  "name" : "Polartec® Hooded Sweatshirt",
+  "nameRegex" : ".*P.*o.*l.*a.*r.*t.*e.*c.*H.*o.*o.*d.*e.*d.*S.*w.*e.*a.*t.*s.*h.*i.*r.*t.*",
+  "price" : "\n                                                                                            $158/£138\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "https://www.supremecommunity.com/u/season/fall-winter2018/sweatshirts/3b803c2180104a75a890de4fb1b4da24_sqr.jpg"
+}, {
+  "category" : "hats",
+  "name" : "Reflective Camo Trooper",
+  "nameRegex" : ".*R.*e.*f.*l.*e.*c.*t.*i.*v.*e.*C.*a.*m.*o.*T.*r.*o.*o.*p.*e.*r.*",
+  "price" : "\n                                                                                            $74/£64\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "7 1/8", "7 1/4", "7 3/8", "7 1/2", "7 5/8", "7 3/4" ],
+  "url" : "https://www.supremecommunity.com/u/season/fall-winter2018/hats/04a7ebe44fbd4f6f8026c37754e722ef_sqr.jpg"
+}, {
+  "category" : "sweatshirts",
+  "name" : "Reflective Small Box Zip Up Sweatshirt",
+  "nameRegex" : ".*R.*e.*f.*l.*e.*c.*t.*i.*v.*e.*S.*m.*a.*l.*l.*B.*o.*x.*Z.*i.*p.*U.*p.*S.*w.*e.*a.*t.*s.*h.*i.*r.*t.*",
+  "price" : "\n                                                                                            $158/£148\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "https://www.supremecommunity.com/u/season/fall-winter2018/sweatshirts/0af34cc933054518b2b55eb1869440cd_sqr.jpg"
+}, {
+  "category" : "hats",
+  "name" : "Side Panel Camp Cap",
+  "nameRegex" : ".*S.*i.*d.*e.*P.*a.*n.*e.*l.*C.*a.*m.*p.*C.*a.*p.*",
+  "price" : "\n                                                                                            $48/£46\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "7 1/8", "7 1/4", "7 3/8", "7 1/2", "7 5/8", "7 3/4" ],
+  "url" : "https://www.supremecommunity.com/u/season/fall-winter2018/hats/8e79e7c61c694e5195ab01fc922de6d3_sqr.jpg"
+}, {
+  "category" : "jackets",
+  "name" : "Wool N-2B Jacket",
+  "nameRegex" : ".*W.*o.*o.*l.*N.*2.*B.*J.*a.*c.*k.*e.*t.*",
+  "price" : "\n                                                                                            $398/£348\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "https://www.supremecommunity.com/u/season/fall-winter2018/jackets/b5f7de51521a461f87fd00196a35d5f4_sqr.jpg"
+}, {
+  "category" : "pants",
+  "name" : "Polartec® Cargo Pant",
+  "nameRegex" : ".*P.*o.*l.*a.*r.*t.*e.*c.*C.*a.*r.*g.*o.*P.*a.*n.*t.*",
+  "price" : "\n                                                                                            $158/£138\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "30", "32", "34", "36" ],
+  "url" : "https://www.supremecommunity.com/u/season/fall-winter2018/pants/47aedca4b8e94721b7f10b1e3d9a3e9f_sqr.jpg"
+}, {
+  "category" : "tops_sweaters",
+  "name" : "Floral Jacquard Zip L/S Polo",
+  "nameRegex" : ".*F.*l.*o.*r.*a.*l.*J.*a.*c.*q.*u.*a.*r.*d.*Z.*i.*p.*L.*S.*P.*o.*l.*o.*",
+  "price" : "\n                                                                                            $110/£89\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "https://www.supremecommunity.com/u/season/fall-winter2018/tops-sweaters/7d809a03de1c49558f639ec2e9733c20_sqr.jpg"
+}, {
+  "category" : "shirts",
+  "name" : "Quilted Faded Plaid Shirt",
+  "nameRegex" : ".*Q.*u.*i.*l.*t.*e.*d.*F.*a.*d.*e.*d.*P.*l.*a.*i.*d.*S.*h.*i.*r.*t.*",
+  "price" : "\n                                                                                            $138/£118\n                                                                                            \n                                                                                    ",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "https://www.supremecommunity.com/u/season/fall-winter2018/shirts/353d9add9e054b53b12f50dbd16271fd_sqr.jpg"
+}, {
+  "category" : "tops_sweaters",
+  "name" : "Striped Rib Logo L/S Top",
+  "nameRegex" : ".*S.*t.*r.*i.*p.*e.*d.*R.*i.*b.*L.*o.*g.*o.*L.*S.*T.*o.*p.*",
+  "price" : "bezcenne",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "http://icons.iconarchive.com/icons/pelfusion/flat-file-type/512/jpg-icon.png"
+}, {
+  "category" : "accessories",
+  "name" : "Supreme®/Hanes® Tagle Tees (3 Pack)",
+  "nameRegex" : ".*S.*u.*p.*r.*e.*m.*e.*H.*a.*n.*e.*s.*T.*a.*g.*l.*e.*T.*e.*e.*s.*3.*P.*a.*c.*k.*",
+  "price" : "bezcenne",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "http://icons.iconarchive.com/icons/pelfusion/flat-file-type/512/jpg-icon.png"
+}, {
+  "category" : "accessories",
+  "name" : "Supreme®/Hanes® Cr Socks (4 Pack)",
+  "nameRegex" : ".*S.*u.*p.*r.*e.*m.*e.*H.*a.*n.*e.*s.*C.*r.*S.*o.*c.*k.*s.*4.*P.*a.*c.*k.*",
+  "price" : "bezcenne",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "http://icons.iconarchive.com/icons/pelfusion/flat-file-type/512/jpg-icon.png"
+}, {
+  "category" : "accessories",
+  "name" : "Studded Logo Belt",
+  "nameRegex" : ".*S.*t.*u.*d.*d.*e.*d.*L.*o.*g.*o.*B.*e.*l.*t.*",
+  "price" : "bezcenne",
+  "sizeArray" : [ "Small", "Medium", "Large", "XLarge" ],
+  "url" : "http://icons.iconarchive.com/icons/pelfusion/flat-file-type/512/jpg-icon.png"
+} ]

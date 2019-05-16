@@ -1,0 +1,68 @@
+.cart{
+  padding: 20px 0 20px 0;
+  width: 80%;
+  margin: 0 auto 50px;
+}
+
+.container{
+  background-color: rgba(20, 71, 255, 0.87);
+  color: white;
+  border-radius: 1px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 20px 0 rgba(0, 0, 0, 0.1) !important;
+}
+
+.cart h6{
+  margin-top: 7px;
+  margin-bottom: 20px;
+
+}
+
+.contactLogo{
+  height: 34px;
+  margin-right: 10px;
+  color: white;
+}
+
+.totalButton{
+  font-size: smaller;
+  padding: 5px 40px 5px 40px;
+  text-align: right;
+}
+
+.cartBox{
+  font-size: medium;
+  font-weight: bold;
+  line-height: 180px;
+  height: 180px;
+}
+
+.cartBox2{
+  height: 100% !important;
+  border: 2px dashed;
+  border-radius: 1px;
+  min-height: 180px;
+}
+
+.total{
+  margin: 20px 0 0 0;
+
+}
+
+.emptyCart{
+  text-align: center;
+
+}
+
+.cart span{
+  display: inline-block;
+  vertical-align: middle;
+  line-height: normal;
+  font-size: small;
+}
+
+.contactText{
+  text-align: left !important;
+  font-size: small;
+  padding-bottom: 5px;
+}
+
