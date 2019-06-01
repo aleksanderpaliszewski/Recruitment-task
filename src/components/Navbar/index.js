@@ -6,27 +6,27 @@ function NavBar() {
     return (
         <div className={styles.topnav} id="myTopnav">
             <NavLink
-                to="/contact"
+                to="/Recruitment-task/contact"
                 activeStyle={{
                     fontWeight: "bold",
                     color: "#123abc"
                 }}
             >Contact</NavLink>
             <NavLink
-                to="/about"
+                to="/Recruitment-task/about"
                 activeStyle={{
                     fontWeight: "bold",
                     color: "#123abc"
                 }}
             >About</NavLink>
             <NavLink
-                to="/home"
+                to="/Recruitment-task/home"
                 activeStyle={{
                     fontWeight: "bold",
                     color: "#123abc"
                 }}
             >Home</NavLink>
-            <h5><a href={"/home"}>LOGO</a></h5>
+            <h5><a href={"/Recruitment-task/home"}>LOGO</a></h5>
         </div>
     )
 }
