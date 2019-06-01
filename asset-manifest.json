@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Recruitment-task/static/css/main.9050b13f.chunk.css",
+    "main.js": "/Recruitment-task/static/js/main.644b6990.chunk.js",
+    "main.js.map": "/Recruitment-task/static/js/main.644b6990.chunk.js.map",
+    "runtime~main.js": "/Recruitment-task/static/js/runtime~main.7dad0dfe.js",
+    "runtime~main.js.map": "/Recruitment-task/static/js/runtime~main.7dad0dfe.js.map",
+    "static/js/2.58b141eb.chunk.js": "/Recruitment-task/static/js/2.58b141eb.chunk.js",
+    "static/js/2.58b141eb.chunk.js.map": "/Recruitment-task/static/js/2.58b141eb.chunk.js.map",
+    "index.html": "/Recruitment-task/index.html",
+    "precache-manifest.8d58502238c32aacc927672ae5a85e04.js": "/Recruitment-task/precache-manifest.8d58502238c32aacc927672ae5a85e04.js",
+    "service-worker.js": "/Recruitment-task/service-worker.js",
+    "static/css/main.9050b13f.chunk.css.map": "/Recruitment-task/static/css/main.9050b13f.chunk.css.map",
+    "static/media/style.module.scss": "/Recruitment-task/static/media/Roboto-Medium.d0884059.ttf",
+    "static/media/contact.svg": "/Recruitment-task/static/media/contact.b291989d.svg"
+  }
+}
