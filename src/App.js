@@ -5,7 +5,6 @@ import NavBar from "./components/Navbar";
 import About from "./components/About";
 import Contact from "./components/Contact";
 import PanelScreen from "./components/PanelView";
-import Redirect from "react-router-dom/es/Redirect";
 
 function App() {
   return (
