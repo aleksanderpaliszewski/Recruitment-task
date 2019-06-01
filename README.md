@@ -1,11 +1,15 @@
-Recruitment-task
+# Recruitment-task
 
-Starter używa node package managera (npm) tak jak w instrukcji. Po ściągnięciu projektu:
 
-npm install
+### Installation
 
-Aby uruchomić serwer:
+```sh
+$ npm install
+```
+### Development
 
- npm start
+```sh
+$ npm start
+```
 
 
