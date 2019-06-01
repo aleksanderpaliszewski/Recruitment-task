@@ -1,13 +1,14 @@
 {
   "name": "divante",
+  "homepage": "https://aleksanderpaliszewski.github.io/task/",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http//server-name/home",
   "dependencies": {
     "@material-ui/core": "^3.9.3",
     "axios": "^0.18.0",
     "bootstrap": "^4.3.1",
     "css-loader": "^2.1.1",
+    "gh-pages": "^2.0.1",
     "mdbootstrap": "^4.8.1",
     "mdbreact": "^4.14.0",
     "node-sass": "^4.11.0",
@@ -24,6 +25,8 @@
     "style-loader": "^0.23.1"
   },
   "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
